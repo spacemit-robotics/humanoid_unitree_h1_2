@@ -1,0 +1,15 @@
+SpacemiT humanoid_unitree_h1_2 Component
+Copyright 2026 SpacemiT (Hangzhou) Technology Co. Ltd.
+
+This product includes software developed at
+SpacemiT (Hangzhou) Technology Co. Ltd. (https://www.spacemit.com/).
+
+---------------------------------------------------------------------------
+Third-party Software Notices:
+---------------------------------------------------------------------------
+
+This product contains portions of the following third-party software:
+
+1. unitree_rl_mjlab (https://github.com/unitreerobotics/unitree_rl_mjlab)
+   Copyright (c) 2024 The Isaac Lab Project Developers
+   Licensed under the Apache License 2.0.
